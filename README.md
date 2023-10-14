@@ -1,16 +1,11 @@
-# simple_tic_tac_toe_app
+# Simple Tic Tac Toe App
 
-A new Flutter project.
+Simple Tic Tac Toe App
 
-## Getting Started
+![1](https://github.com/BilalSevinc16/Simple_Tic_Tac_Toe_App/assets/146417248/5b4e1fd4-a377-4825-b59c-11d11a01b795)
 
-This project is a starting point for a Flutter application.
+![2](https://github.com/BilalSevinc16/Simple_Tic_Tac_Toe_App/assets/146417248/1dd40ed2-2006-422f-bed5-d2a9f63372f9)
 
-A few resources to get you started if this is your first Flutter project:
+![3](https://github.com/BilalSevinc16/Simple_Tic_Tac_Toe_App/assets/146417248/407c1e68-f971-44f5-983d-853356d96213)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![5](https://github.com/BilalSevinc16/Simple_Tic_Tac_Toe_App/assets/146417248/7283e735-dfc9-4570-bc16-202a24451176)
