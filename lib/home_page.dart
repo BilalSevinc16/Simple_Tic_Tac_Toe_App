@@ -204,7 +204,7 @@ class _HomePageState extends State<HomePage> {
       context: context,
       builder: (BuildContext context) {
         return AlertDialog(
-          backgroundColor: Colors.grey.shade700,
+          backgroundColor: Colors.grey.shade400,
           title: const Text('DRAW'),
           actions: <Widget>[
             TextButton(
@@ -231,7 +231,7 @@ class _HomePageState extends State<HomePage> {
       context: context,
       builder: (BuildContext context) {
         return AlertDialog(
-          backgroundColor: Colors.grey.shade700,
+          backgroundColor: Colors.grey.shade400,
           title: Text('WINNER IS: ${winner.toUpperCase()}'),
           actions: <Widget>[
             TextButton(
